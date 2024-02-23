@@ -1,4 +1,4 @@
-Experience in SDLC Over 7 years, Specializing in design,development,inntegration,business analysis/modeling,documentation, and testing of web application
+Experience in SDLC Over 5 years, Specializing in design,development,inntegration,business analysis/modeling,documentation, and testing of web application
 
 Proficiency in Agile development environment, including Test Driven Development(TDD) and scrum  methodologies
 Frontend Development: Expertise in UI design with HTML5, CSS3/4, JavaScript, jQuery, JSP, and Angular (versions 14 to4).
